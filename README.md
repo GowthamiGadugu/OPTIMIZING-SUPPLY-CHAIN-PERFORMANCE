@@ -38,9 +38,7 @@ Financial factors, such as sales per customer, have minimal impact on delivery r
 High-risk customers often coincide with high revenue, emphasizing the need for strategic prioritization.
 Clustering revealed three balanced groups, allowing targeted risk mitigation strategies.
 
-Strategic Implications:
-
+*Strategic Implications:*
 Proactively managing high-risk, high-value customers can reduce delays and enhance customer satisfaction.
-
 Integrating predictive insights into logistics decision-making can significantly minimize operational disruptions.
 
